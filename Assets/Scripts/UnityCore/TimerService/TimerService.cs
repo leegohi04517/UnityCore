@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityCore.UnitySingleton;
 using UnityEngine;
 
-namespace UnityCore.UnityService
+namespace UnityCore.TimerService
 {
     public class TimerService : MonoSingleton<TimerService>
     {
