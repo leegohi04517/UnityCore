@@ -9,4 +9,4 @@ UnityCore is composed with these modules :
 - [TimerService](Assets/Scripts/UnityCore/TimerService), schedule timer task in global context
 - [UnitySingleton](Assets/Scripts/UnityCore/UnitySingleton), unity singleton design
 - [UnityTaskManagement](Assets/Scripts/UnityCore/UnityTaskManagement), run async task in global context
-- [UnityThread](Assets/Scripts/UnityCore/UnityThread), which offers worker thread running in background to process cost time operation.
+- [UnityThread](Assets/Scripts/UnityCore/UnityThread), which offers worker thread running on background to process cost time operation.
