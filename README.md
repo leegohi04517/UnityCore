@@ -5,7 +5,7 @@ useful development kit for unity game
 
 UnityCore is composed with these modules :
 
-- [BigNumber](), which represent number with a*(1000^b)
+- [BigNumber](doc/BigNumber.md), which represent number with a*(1000^b)
 - [TimerService](), schedule timer task in global context
 - [UnitySingleton](), unity singleton design
 - [UnityTaskManagement](), run async task in global context
